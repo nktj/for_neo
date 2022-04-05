@@ -62,6 +62,5 @@ public class Main {
                 System.out.println("Число в десятичной системе исчисления: " + chislo2);
                 break;
         }
-        System.out.println();
     }
 }
